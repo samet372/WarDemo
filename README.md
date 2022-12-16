@@ -1,5 +1,5 @@
 # WarDemo
-#### Photon Multiplayer Warrior Game
+## Photon Multiplayer Warrior Game
 
 ### Oyun Photon Pun2 kullanılarak geliştiriliyor
 ### Şuan sunucu aktif şekilde çalışıyor 
